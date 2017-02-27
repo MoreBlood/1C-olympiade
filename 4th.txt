@@ -1,0 +1,8 @@
+2
+http://test1.test.ru 3
+http://test2.test.ru 1
+<link href="test.css" type="text/css" rel="stylesheet">
+<link href="/test2.css" type="text/css" rel="stylesheet">
+<link href="http://site.ru/test3.css" type="text/css" rel="stylesheet">
+<img src="/test.jpg">
+<img src="/test.jpg">
